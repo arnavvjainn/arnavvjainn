@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there 👋
+
+### About Me 🌟
+- I'm a 4th Year Computer Science student at University of Waterloo with a passion for DevOps and CyberSecurity. 
+- 🔭 I’m currently working on this github shit
+
 
 <!--
 **arnavvjainn/arnavvjainn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
