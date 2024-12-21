@@ -1,7 +1,6 @@
 # 💫 About Me:
 I am 4th year computer science student at the University of Waterloo. <br>
 My main interests are software engineering, devops and distributed computing. I am also interested in startups, entrepreneurish, VC and product. <br> 
-I am currently trying to make sense of artificial intelligence and machine learning, mainly LLMs <br>
 Few fun facts - I sometimes do standup comedy and improv. I also blog about football (soccer), I was once #5 in Canada in fantasy premier league. <br>
 Email: arnav.jain@uwaterloo.ca
 
@@ -15,7 +14,5 @@ Email: arnav.jain@uwaterloo.ca
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
