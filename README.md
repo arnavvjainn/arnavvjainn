@@ -1,6 +1,6 @@
 # 💫 About Me:
 I am 4th year computer science student at the University of Waterloo. <br>
-My main interests are software engineering, devops and distributed computing. I am also interested in startups, entrepreneurish, VC and product. <br> 
+My main interests are software engineering, devops and distributed computing. I am also interested in startups, entrepreneurship, VC and product. <br> 
 Few fun facts - I sometimes do standup comedy and improv. I also blog about football (soccer), I was once #5 in Canada in fantasy premier league. <br>
 Email: arnav.jain@uwaterloo.ca
 
